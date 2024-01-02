@@ -1,0 +1,10 @@
+2024-01-02 17:11:29.195 INFO Main: Start of the race. Number of participants: 7
+2024-01-02 17:11:52.000 INFO Main: Start of the race. Number of participants: 7
+2024-01-02 17:11:53.029 INFO Main: End of the race. Winner: Elvis
+2024-01-02 17:19:55.896 DEBUG Hippodrome: Created a Hippodrome with 7 horses
+2024-01-02 17:19:55.898 INFO Main: Start of the race. Number of participants: 7
+2024-01-02 17:19:56.912 INFO Main: End of the race. Winner: Yoda
+2024-01-02 17:21:53.036 ERROR Hippodrome: Horses list is empty
+2024-01-02 17:22:10.872 DEBUG Hippodrome: Created a Hippodrome with 7 horses
+2024-01-02 17:22:10.874 INFO Main: Start of the race. Number of participants: 7
+2024-01-02 17:22:11.902 INFO Main: End of the race. Winner: Shelby
