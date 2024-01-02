@@ -8,3 +8,23 @@
 2024-01-02 17:22:10.872 DEBUG Hippodrome: Created a Hippodrome with 7 horses
 2024-01-02 17:22:10.874 INFO Main: Start of the race. Number of participants: 7
 2024-01-02 17:22:11.902 INFO Main: End of the race. Winner: Shelby
+2024-01-02 17:31:43.620 DEBUG Horse: Created a Horse named [Houdini] with speed [2.4]
+2024-01-02 17:31:43.622 DEBUG Horse: Created a Horse named [Comanche] with speed [2.5]
+2024-01-02 17:31:43.622 DEBUG Horse: Created a Horse named [Ranger] with speed [2.6]
+2024-01-02 17:31:43.622 DEBUG Horse: Created a Horse named [Elvis] with speed [2.7]
+2024-01-02 17:31:43.622 DEBUG Horse: Created a Horse named [Yoda] with speed [2.8]
+2024-01-02 17:31:43.622 DEBUG Horse: Created a Horse named [Pegasus] with speed [2.9]
+2024-01-02 17:31:43.622 DEBUG Horse: Created a Horse named [Shelby] with speed [3.0]
+2024-01-02 17:31:43.623 DEBUG Hippodrome: Created a Hippodrome with 7 horses
+2024-01-02 17:31:43.623 INFO Main: Start of the race. Number of participants: 7
+2024-01-02 17:31:44.661 INFO Main: End of the race. Winner: Ranger
+2024-01-02 17:31:52.081 DEBUG Horse: Created a Horse named [Houdini] with speed [2.4]
+2024-01-02 17:31:52.082 DEBUG Horse: Created a Horse named [Comanche] with speed [2.5]
+2024-01-02 17:31:52.083 DEBUG Horse: Created a Horse named [Ranger] with speed [2.6]
+2024-01-02 17:31:52.083 DEBUG Horse: Created a Horse named [Elvis] with speed [2.7]
+2024-01-02 17:31:52.083 DEBUG Horse: Created a Horse named [Yoda] with speed [2.8]
+2024-01-02 17:31:52.083 DEBUG Horse: Created a Horse named [Pegasus] with speed [2.9]
+2024-01-02 17:31:52.083 DEBUG Horse: Created a Horse named [Shelby] with speed [3.0]
+2024-01-02 17:31:52.084 DEBUG Hippodrome: Created a Hippodrome with 7 horses
+2024-01-02 17:31:52.084 INFO Main: Start of the race. Number of participants: 7
+2024-01-02 17:32:12.451 INFO Main: End of the race. Winner: Yoda

@@ -22,7 +22,7 @@ public class Main {
 
         LOGGER.info("Start of the race. Number of participants: {}", horses.size());
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 100; i++) {
             hippodrome.move();
             watch(hippodrome);
             TimeUnit.MILLISECONDS.sleep(200);
@@ -34,7 +34,7 @@ public class Main {
         LOGGER.info("End of the race. Winner: {}", winnerName);
     }
 
-    private static void watch(Hippodrome hippodrome) throws Exception {
+    private static void watch(Hippodrome hippodrome) {
         hippodrome.getHorses().stream()
                 .map(horse -> ".".repeat((int) horse.getDistance()) + horse.getName())
                 .forEach(System.out::println);
